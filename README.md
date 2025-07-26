@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**yousef-788/yousef-788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# 💫 About Me:
+# 💫 About Me:
 🔭 Studying Communications & Electronics Engineering, passionate about integrating AI with telecom and embedded systems.<br>👯 Open to collaborations on ML, signal processing, and edge computing projects.<br>🌱 Currently learning advanced DSP, wireless systems, and deep learning.<br>💬 Ask me about Python, MATLAB, Gradio, or ML in telecom.<br>⚡ Always looking for ways to make communication systems smarter with AI.
 
 
@@ -27,10 +19,3 @@ Here are some ideas to get you started:
 ![](https://github-contributor-stats.vercel.app/api?username=yousef-788&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
