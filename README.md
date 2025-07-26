@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 Studying Communications & Electronics Engineering, passionate about integrating AI with telecom and embedded systems.<br>👯 Open to collaborations on ML, signal processing, and edge computing projects.<br>🌱 Currently learning advanced DSP, wireless systems, and deep learning.<br>💬 Ask me about Python, MATLAB, Gradio, or ML in telecom.<br>⚡ Always looking for ways to make communication systems smarter with AI.
 
 
